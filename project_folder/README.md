@@ -1,6 +1,6 @@
 # Оптимизация прибыльности виджета отзывов: анализ клиентской базы и тарифных стратегий
 
-* [Ссылка на тетрадку JupiterNotebook с интерактивными графиками](https://nbviewer.org/github/nesterova-katya/project_for_review/blob/main/project_folder/widget_analysis.ipynb#section-3-1)
+* [Ссылка на тетрадку JupiterNotebook с интерактивными графиками](https://nbviewer.org/github/nesterova-katya/project_for_review/blob/main/project_folder/widget_analysis.ipynb)
 
 # Описание данных
 
